@@ -1,6 +1,6 @@
 # flutter_app_bloc
 
-A new Flutter application.
+一个很棒的业务视图分离框架
 
 ## Getting Started
 
